@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://netflix-gatekeeper.lovable.app) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/d9d79fab-7dce-4210-a3a8-5c1c3193f9b7) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://netflix-gatekeeper.lovable.app) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/d9d79fab-7dce-4210-a3a8-5c1c3193f9b7) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
